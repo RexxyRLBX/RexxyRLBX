@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RexxyRLBX.
+- 👀 I’m interested in Macros, Automation.
+- 🌱 I’m currently learning AHK V2.
+- 😄 Pronouns: him/his.
+- ⚡ Fun fact: i like Cats more then Dogs.
