@@ -14,7 +14,7 @@ I'm passionate about building macros and automating things just for the fun of i
 - 🌱 Currently learning **AutoHotkey v2 (AHK v2)**
 - 🧠 I mostly use **AHK v2**, **LuaU**, and **HTML**
 - 😸 Fun fact: I like **cats** more than **dogs**
-- 🕒 Timezone: **GMT+2**
+- 🕒 Timezone: **GMT+1 Berlin**
 - 😄 Pronouns: **he/him**
 
 ---
